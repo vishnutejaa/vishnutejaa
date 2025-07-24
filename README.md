@@ -24,13 +24,22 @@
 ![Hugging Face](https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-🦜_LangChain-1C3C3C?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-412991?style=flat-square&logo=anthropic&logoColor=white)
+
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-F7DF1E?style=flat-square&logo=rust&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Agentic Frameworks
+![Autogen](https://img.shields.io/badge/-Autogen-F7DF1E?style=flat-square&logo=autogen&logoColor=black)
+![Langgraph](https://img.shields.io/badge/-Langgraph-F7DF1E?style=flat-square&logo=langgraph&logoColor=black)
+![CrewAI](https://img.shields.io/badge/-CrewAI-F7DF1E?style=flat-square&logo=crewai&logoColor=black)
 
 ### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
