@@ -1,7 +1,7 @@
 # Hi there, I'm Vishnu Nandam 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Full+Stack+Developer;LLM+%26+Multi-Agent+Systems;Always+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Software+Developer;LLM+%26+Multi-Agent+Systems;Always+Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **Multi-Agent Systems for Automated Shipment Optimization**
 - 🌱 I'm currently implementing solutions using **Advanced RAG Architectures & LLM Fine-tuning Techniques**
 - 👯 I'm looking to collaborate on **AI/ML Projects & Open Source LLM Tools**
-- 💬 Ask me about **LLMs, LLM Training & Fine-Tuning, Reinforcement Learning, Multi-Agent Systems, RAG, AI Agents, Neural Networks, or Full-Stack Development**
+- 💬 Ask me about **LLMs, LLM Training & Fine-Tuning, Reinforcement Learning, Multi-Agent Systems, RAG, AI Agents, Neural Networks, and Backend Development**
 - 📫 How to reach me: **nandam.vishnutejaa@gmail.com**
 - ⚡ Fun fact: **I fine-tuned pretrained Llama LLMs to achieve 45% task-specific performance gains and reduced harmful outputs by 81%!**
 - 🎓 **Senior at ASU** studying Computer Science (GPA: 3.86/4.0) | Expected Graduation: Dec 2025
