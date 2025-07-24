@@ -120,19 +120,9 @@ current_projects = {
 - **Published**: arXiv paper on mixed-autonomy traffic management
 - **Innovation**: LLM agents outperforming RL baselines in traffic simulations
 - **Collaboration**: DARL Lab at ASU School of Computing
+- **Links:
+    📄 [arXiv paper](https://arxiv.org/abs/2410.14368) 
 
-
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/vishnutejaa/llamapilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnutejaa&repo=llamapilot&theme=radical" />
-  </a>
-  <a href="https://github.com/vishnutejaa/multi-agent-shipment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnutejaa&repo=multi-agent-shipment&theme=radical" />
-  </a>
-</div>
 
 ## 🏆 Achievements & Recognition
 
@@ -151,12 +141,12 @@ current_projects = {
   <a href="https://github.com/vishnutejaa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vnandam@asu.edu">
+  <a href="mailto:nandam.vishnutejaa@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+14802413668">
+<!--   <a href="tel:+14802413668">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 ## 💭 AI/ML Quote
