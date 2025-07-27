@@ -12,7 +12,7 @@
 - 💬 Ask me about **LLMs, LLM Training & Fine-Tuning, Reinforcement Learning, Multi-Agent Systems, RAG, AI Agents, Neural Networks, and Backend Development**
 - 📫 How to reach me: **nandam.vishnutejaa@gmail.com**
 - ⚡ Fun fact: **I fine-tuned pretrained Llama LLMs to achieve 45% task-specific performance gains and reduced harmful outputs by 81%!**
-- 🎓 **Senior at ASU** studying Computer Science (GPA: 3.86/4.0) | Expected Graduation: Dec 2025
+- 🎓 **Senior at ASU** studying Computer Science
 
 ## 🛠️ Technologies & Tools
 
