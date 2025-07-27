@@ -1,7 +1,7 @@
 # Hi there, I'm Vishnu Nandam 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Research in AI;Software+Developer;LLM+%26+Multi-Agent+Systems;Always+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Research+in+AI;Software+Developer;LLM+%26+Multi-Agent+Systems;Always+Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
